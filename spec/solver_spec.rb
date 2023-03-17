@@ -43,6 +43,13 @@ describe Solver do
     end
   end
 
+  describe '#fizzbuzz' do
+    it 'returns "7" when given 7' do
+      solve = Solver.new
+      expect(solve.fizzbuzz(7)).to eq('7')
+    end
+  end
+
   describe '#reverse' do
     it 'returns reverse string' do
       solve = Solver.new
