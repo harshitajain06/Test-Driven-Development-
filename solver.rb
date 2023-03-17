@@ -1,9 +1,10 @@
 class Solver
   def factorial(num)
-    if num.zero?
-      1
-    elsif num.negative?
-      'Argument must be non-negative'
+    
+    if num.negative?
+      raise Exception
+    elsif num.zero?
+        1
     else
       num * factorial(num - 1)
     end
