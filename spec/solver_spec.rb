@@ -18,7 +18,7 @@ describe Solver do
   describe '#factorial' do
     it 'returns Argument must be non-negative' do
       solve = Solver.new
-      expect{solve.factorial(-1)}.to raise_error(Exception)
+      expect { solve.factorial(-1) }.to raise_error(Exception)
     end
   end
 
