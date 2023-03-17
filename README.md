@@ -13,6 +13,7 @@
   - [Prerequisites](#prerequisites)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -91,6 +92,16 @@ To run tests, run the following command:
 - GitHub [link](https://github.com/DJ-MrJay)
 - Twitter [link](https://twitter.com/jonah_wambua)
 - LinkedIn [link](https://www.linkedin.com/in/jonah-wambua/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Integration with other testing frameworks**
+- [ ] **Continuous integration**
+- [ ] **Code coverage reporting**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
